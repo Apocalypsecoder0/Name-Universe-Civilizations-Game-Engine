@@ -361,12 +361,12 @@ void initializePlayer()
 	int currentspace = 0;
 	//Game Title and Game Credits
  cout<<endl<<"\tWelcome to Galaxys Space Battle Wars RPG"<<endl
-		<<"\t\tBy: Stephen Deline"<<endl
-		<<"\a\t\tStephen Deline: Producer"<<endl
-		<<"\a\t\tStephen Deline: Game Designer"<<endl
-		<<"\a\t\tStephen Deline: GamePlay Programmer"<<endl
-		<<"\a\t\tStephen Deline: Game Tester"<<endl
-		<<"\a\t\tStephen Deline: Writer/Game Text"<<endl
+		<<"\t\tBy: apocalypse coder0"<<endl
+		<<"\a\t\t Producer"<<endl
+		<<"\a\t\t Game Designer"<<endl
+		<<"\a\t\t: GamePlay Programmer"<<endl
+		<<"\a\t\t: Game Tester"<<endl
+		<<"\a\t\t: Writer/Game Text"<<endl
 		<<"\a\t\t"<<endl<<endl;
 system("PAUSE");  //Pause
 system("CLS");     //Clear the screen
